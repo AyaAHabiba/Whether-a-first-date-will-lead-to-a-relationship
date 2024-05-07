@@ -24,9 +24,10 @@ Handling categorical variables through encoding techniques like one-hot encoding
 Feature selection to identify the most informative features for predicting relationship outcomes.
 Model Selection
 For this binary classification task, participants may experiment with various machine learning algorithms and modeling techniques, including but not limited to:
-
+```
 RandomForest
 XGBClassifier
+```
 Participants are encouraged to evaluate the performance of multiple models using appropriate evaluation metrics area under the ROC curve (AUC-ROC).
 
 ## Model Evaluation
